@@ -1,0 +1,5 @@
+{
+  "name": "StyleAI: Fashion Recommender",
+  "description": "An AI-powered fashion consultant that suggests outfits based on occasion and weather.",
+  "requestFramePermissions": []
+}
